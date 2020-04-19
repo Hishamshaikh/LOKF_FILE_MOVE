@@ -1,7 +1,6 @@
 import os
 import glob
 import shutil
-import pathlib
 dst = "D:\\Hisham Shaikh\\Desktop\\Excess\\LOKF"
 for (dirname, dirs, files) in os.walk('.'):
    for filename in files:
